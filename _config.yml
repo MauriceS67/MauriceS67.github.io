@@ -30,7 +30,7 @@ permalink: /_site
 # gitlab_username:  pages
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
 # plugins:
 #   - jekyll-feed
 
