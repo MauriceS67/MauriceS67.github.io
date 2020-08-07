@@ -1,0 +1,57 @@
+{
+  "src/app-bootstap/app-bootstap.html": {
+    "src/app-theme/app-theme.html": {
+      "type": "document",
+      "weight": 1
+    }
+  },
+  "src/app-theme/app-theme.html": {},
+  "src/app-views/index-view.html": {
+    "src/app-theme/app-theme.html": {
+      "type": "document",
+      "weight": 1
+    }
+  },
+  "src/app-views/notfound-view.html": {},
+  "src/app-views/grid-view.html": {
+    "src/app-theme/app-theme.html": {
+      "type": "document",
+      "weight": 1
+    }
+  },
+  "src/app-counter-widget/app-counter-widget.html": {},
+  "src/app-card-widget/app-card-widget.html": {
+    "bower_components/bbx-card-widget/bbx-card-widget.html": {
+      "type": "document",
+      "weight": 1
+    }
+  },
+  "bower_components/ag-grid-import/ag-grid-import.html": {},
+  "bower_components/ag-grid-import/ag-grid-enterprise-import.html": {},
+  "bower_components/bbx-header-widget/bbx-header-widget.html": {},
+  "bower_components/bbx-card-widget/bbx-card-widget.html": {},
+  "bundles/LME/src/lme-servicecalls-filters/lme-servicecalls-filters.html": {
+    "src/app-theme/app-theme.html": {
+      "type": "document",
+      "weight": 1
+    }
+  },
+  "bundles/LME/src/lme-servicecalls-form/lme-servicecalls-form.html": {
+    "src/app-theme/app-theme.html": {
+      "type": "document",
+      "weight": 1
+    }
+  },
+  "bundles/LME/src/lme-serviceobjects-filters/lme-serviceobjects-filters.html": {
+    "src/app-theme/app-theme.html": {
+      "type": "document",
+      "weight": 1
+    }
+  },
+  "bundles/LME/src/lme-serviceobjects-form/lme-serviceobjects-form.html": {
+    "src/app-theme/app-theme.html": {
+      "type": "document",
+      "weight": 1
+    }
+  }
+}
