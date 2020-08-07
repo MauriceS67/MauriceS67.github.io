@@ -26,7 +26,7 @@ baseurl: /_site # the subpath of your site, e.g. /blog
 permalink: /_site
 # url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-# github_username:  jekyll
+github_username:  MauriceS67
 # gitlab_username:  pages
 
 # Build settings
