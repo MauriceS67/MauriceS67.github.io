@@ -16,7 +16,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: Example Jekyll site using GitLab Pages
+title: Example Jekyll site using MauriceS67 Git Pages
 # email: your-email@domain.com
 # description: >- # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
