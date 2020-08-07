@@ -10,9 +10,7 @@ on:
   workflow_dispatch:
     inputs:
       name: 'Website container'
-      description: 'Person to greet'
       required: true
-      default: 'Mona the Octocat'
       home:
         description: 'location'
         required: false
