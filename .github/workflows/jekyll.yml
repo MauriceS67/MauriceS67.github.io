@@ -1,19 +1,10 @@
-name: Manual build Jekyll site CI docker
-#
-# on:
-#  push:
-#    branches: [ master ]
-#  pull_request:
-#    branches: [ master ]
+name: Jekyll site CI
 
 on:
-  workflow_dispatch:
-    inputs:
-      name: 'Website container'
-      required: true
-      home:
-        description: 'location'
-        required: false
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 jobs:
   build:
